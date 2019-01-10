@@ -5,7 +5,8 @@
 ![alt text](https://i.imgur.com/eFedNKr.png "read")
 
 ![alt text](https://i.imgur.com/pjx2A8X.png "updated")
-/products
+> /products
+------------
 ```
 {"products":[{"_id":"5c3457f3e7179a7d1240e3bd","products":[{"products":[{"title":"Peach","price":1,"imageLink":"https://i.imgur.com/XWywUHL.jpg","__v":0}],"_id":"5c3452ebe7179a7d1240dff6"},{"products":[{"_id":"5c3452ebe7179a7d1240dff6","products":[{"__v":0,"imageLink":"https://i.imgur.com/jnCJL9l.jpg","price":1,"title":"Apple","createdAt":"2019-01-08T04:33:07.840Z","updatedAt":"2019-01-08T04:33:07.840Z","_id":"5c342803ce90953da489943f"}]}],"_id":"5c3456fbe7179a7d1240e2ef"}]}]}
 
