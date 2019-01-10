@@ -1,6 +1,13 @@
 # Nozama - Back End API
 ![alt text](https://i.imgur.com/5OqaRfs.png "created")
 
+![alt text](https://i.imgur.com/eFedNKr.png "read")
+
+![alt text](https://i.imgur.com/pjx2A8X.png "updated")
+
+
+
+
 <p align="center">
   <b>Team Project By: </b><br><br>
   <a href="https://github.com/Aimeelr08">Aimee Ramirez</a> |
